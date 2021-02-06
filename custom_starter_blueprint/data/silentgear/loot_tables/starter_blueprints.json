@@ -1,0 +1,215 @@
+{"type":"minecraft:gift","pools":[
+	{"rolls":1,"entries":[
+		{"type":"item","weight":1,"name":"silentgear:blueprint_book","functions":[
+			{"function":"set_count","count":1},
+			{"function":"set_nbt",
+			
+			
+				"tag":"{
+					  \"Inventory\": {
+							\"Items\": [
+							  {
+								\"Slot\": 0,
+								\"id\": \"silentgear:rod_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 1,
+								\"id\": \"silentgear:tip_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 2,
+								\"id\": \"silentgear:coating_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 3,
+								\"id\": \"silentgear:grip_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 4,
+								\"id\": \"silentgear:binding_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 5,
+								\"id\": \"silentgear:lining_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 6,
+								\"id\": \"silentgear:bowstring_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 7,
+								\"id\": \"silentgear:fletching_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 8,
+								\"id\": \"silentgear:axe_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 9,
+								\"id\": \"silentgear:paxel_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 10,
+								\"id\": \"silentgear:sword_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 11,
+								\"id\": \"silentgear:katana_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 12,
+								\"id\": \"silentgear:machete_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 13,
+								\"id\": \"silentgear:spear_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 14,
+								\"id\": \"silentgear:knife_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 15,
+								\"id\": \"silentgear:dagger_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 16,
+								\"id\": \"silentgear:pickaxe_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 17,
+								\"id\": \"silentgear:shovel_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 18,
+								\"id\": \"silentgear:hammer_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 19,
+								\"id\": \"silentgear:excavator_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 20,
+								\"id\": \"silentgear:saw_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 21,
+								\"id\": \"silentgear:mattock_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 22,
+								\"id\": \"silentgear:prospector_hammer_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 23,
+								\"id\": \"silentgear:sickle_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 24,
+								\"id\": \"silentgear:shears_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 25,
+								\"id\": \"silentgear:bow_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 26,
+								\"id\": \"silentgear:crossbow_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 27,
+								\"id\": \"silentgear:slingshot_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 28,
+								\"id\": \"silentgear:bracelet_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 29,
+								\"id\": \"silentgear:shield_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 30,
+								\"id\": \"silentgear:helmet_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 31,
+								\"id\": \"silentgear:chestplate_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 32,
+								\"id\": \"silentgear:leggings_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 33,
+								\"id\": \"silentgear:elytra_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 34,
+								\"id\": \"silentgear:boots_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 35,
+								\"id\": \"silentgear:arrow_blueprint\",
+								\"Count\": 1
+							  },
+							  {
+								\"Slot\": 36,
+								\"id\": \"silentgear:ring_blueprint\",
+								\"Count\": 1
+							  }
+							]
+						}
+				}"
+			}
+		]}
+	]},
+			
+			
+	{"rolls":1,"entries":[
+		{"type":"item","weight":1,"name":"akashictome:tome","functions":[{"function":"set_count","count":1}]}]},
+	{"rolls":1,"entries":[
+		{"type":"item","weight":1,"name":"patchouli:guide_book","functions":[{"function":"set_count","count":1},
+			{"function":"set_nbt","tag":"{\"patchouli:book\":\"storagenetwork:network_book\"}"}]}]},
+	{"rolls":1,"entries":[
+		{"type":"item","weight":1,"name":"patchouli:guide_book","functions":[{"function":"set_count","count":1},
+			{"function":"set_nbt","tag":"{\"patchouli:book\":\"crockpot:book\"}"}]}]},
+	{"rolls":1,"entries":[
+		{"type":"item","weight":1,"name":"patchouli:guide_book","functions":[{"function":"set_count","count":1},
+			{"function":"set_nbt","tag":"{\"patchouli:book\":\"bloodmagic:guide\"}"}]}]}
+]}
